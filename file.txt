@@ -1,1 +1,2 @@
 Hello my friend!
+my name is mohaddeseh hydarpanah and I'm trying to learn Git. 
